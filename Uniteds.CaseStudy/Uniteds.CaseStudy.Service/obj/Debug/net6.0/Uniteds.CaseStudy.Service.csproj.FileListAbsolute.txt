@@ -1,0 +1,17 @@
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Service.deps.json
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Service.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Service.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.csproj.CoreCompileInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.csproj.CopyComplete
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\refint\Uniteds.CaseStudy.Service.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\Uniteds.CaseStudy.Service.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Service\obj\Debug\net6.0\ref\Uniteds.CaseStudy.Service.dll

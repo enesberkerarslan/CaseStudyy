@@ -1,0 +1,149 @@
+﻿@using Uniteds.CaseStudy.Web.Models;
+
+@model List<Note>
+
+@{
+    ViewData["Title"] = "Notes";
+    ViewData["Description"] = "Description of Notes";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>@ViewData["Description"]</p>
+
+
+@if (Model != null && Model.Count > 0)
+{
+    <ul>
+        @foreach (var note in Model)
+        {
+            <li>
+                Başlık: @note.Title Açıklama: @note.Description
+                <button onclick="EditNote('@note.Id', '@note.Title','@note.Description','@note.Content')">Düzenle</button>
+                <button onclick="DeleteNote('@note.Id')">Sil</button>
+                <button onclick="AddChildNote('@note.Id', '@note.Title')">Alt Not Ekle</button>
+            </li>
+            <ul>
+                @if (note.Children != null && note.Children.Any())
+                {
+                    @Html.Raw(RenderChildren(note.Children))
+                }
+            </ul>
+        }
+    </ul>
+}
+
+<h2>Not Ekle</h2>
+<form method="post" action="/Home/Create">
+    <div>
+        <label for="Title">Başlık:</label>
+        <input type="text" id="Title" name="Title" required>
+
+    </div>
+    <div>
+        <label for="Content">Content:</label>
+        <input type="text" id="Content" name="Content" required>
+    </div>
+    <div>
+        <label for="Description">Açıklama:</label>
+        <input type="text" id="Description" name="Description" required>
+    </div>
+    <div>
+        <label for="ParentId">Üst Not:</label>
+        <select id="ParentId" name="ParentId">
+            <option value="">Yok</option>
+            @foreach (var note in Model)
+            {
+                <option value="@note.Id">@note.Title</option>
+            }
+        </select>
+    </div>
+    <div>
+        <button type="submit">Ekle</button>
+    </div>
+</form>
+
+<h2>Not Düzenle</h2>
+<form method="post" action="/Home/Update">
+    <div>
+        <label for="Title">Başlık:</label>
+        <input type="text" id="Titlee" name="Title" required>
+        <input type="hidden" id="NoteIdd" name="id" value="">
+    </div>
+    <div>
+        <label for="Content">Content:</label>
+        <input type="text" id="Contentt" name="Content" required>
+    </div>
+    <div>
+        <label for="Description">Açıklama:</label>
+        <input type="text" id="Descriptionn" name="Description" required>
+    </div>  
+    <div>
+        <button type="submit">Düzenle</button>
+    </div>
+</form>
+<script>
+    function AddChildNote(id,tittle) {
+        var description = document.getElementById("Description").value;
+        var content = document.getElementById("Content").value;
+
+        var note = {
+            Title: tittle,
+            Description: description,
+            Content: content,
+            ParentId: id,
+            UserId: parseInt("@ViewData["UserId"]"),
+            IsDeleted: false
+        };
+
+        var parentIdSelect = document.getElementById("ParentId");
+        var option = document.createElement("option");
+        option.value = id;
+        option.text = note.Title;
+        parentIdSelect.add(option);
+
+        var selectedIndex = parentIdSelect.options.selectedIndex;
+        parentIdSelect.options[selectedIndex].selected = false;
+        option.selected = true;
+
+        // Diğer işlemler...
+    }
+    function DeleteNote(id) {
+        var xhr = new XMLHttpRequest();
+        xhr.open("DELETE", "/Home/Delete/" + id, true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                console.log("Silme işlemi başarılı.");
+                location.reload();
+            }
+        };
+        xhr.send();
+    }
+    function EditNote(id, title, description,content,parentid) {
+        document.getElementById("Titlee").value = title;
+        document.getElementById("Descriptionn").value = description;
+        document.getElementById("Contentt").value = content;
+        document.getElementById("NoteIdd").value = id;
+
+        // Diğer alanlara da değerleri yerleştirin...
+    }
+</script>
+
+@functions {
+    string RenderChildren(List<Note> children)
+    {
+        var result = "";
+        foreach (var child in children)
+        {
+            result += "<li>" + "Başlık: " + child.Title + "Açıklama: " + child.Description +
+                "<button onclick =\"EditNote('" + child.Id + "', '" + child.Title + "', '" + child.Content + "', '" + child.Description +  "')\">Düzenle</button>" +
+                "<button onclick=\"DeleteNote('" + child.Id + "')\">Sil</button>" +
+                "<button onclick=\"AddChildNote('" + child.Id + "', '" + child.Title + "')\">Alt Not Ekle</button></li>";
+
+            if (child.Children != null && child.Children.Any())
+            {
+                result += "<ul>" + RenderChildren(child.Children) + "</ul>";
+            }
+        }
+        return result;
+    }
+}

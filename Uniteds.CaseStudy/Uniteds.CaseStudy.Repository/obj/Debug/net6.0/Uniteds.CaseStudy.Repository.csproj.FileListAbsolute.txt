@@ -1,0 +1,17 @@
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.deps.json
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.runtimeconfig.json
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Repository.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.csproj.CopyComplete
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\refint\Uniteds.CaseStudy.Repository.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\Uniteds.CaseStudy.Repository.genruntimeconfig.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Repository\obj\Debug\net6.0\ref\Uniteds.CaseStudy.Repository.dll
