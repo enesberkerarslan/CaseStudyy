@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
       "projectName": "Uniteds.CaseStudy.Web",
-      "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
+      "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
       "packagesPath": "C:\\Users\\ŞNSE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\obj\\",
+      "outputPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ŞNSE\\AppData\\Roaming\\NuGet\\NuGet.Config",

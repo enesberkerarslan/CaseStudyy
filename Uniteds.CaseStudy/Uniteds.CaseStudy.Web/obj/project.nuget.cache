@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qB1BXh6ci9ywstAY90223CLGnrtq1IDemOgx7QcltXEguInIM3ZUqXfog4+t3KGwapfLnD0HCgQiL7fOkKeOFg==",
+  "dgSpecHash": "PiT2YXpWJoO5foGu4erV9zzp5fOT6wjYHDHvDeI26rIizwpPCxtwtRC0xUVCkJKzp6gqZ0aEG1eQK7MNCeh8hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
+  "projectFilePath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Web\\Uniteds.CaseStudy.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ŞNSE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

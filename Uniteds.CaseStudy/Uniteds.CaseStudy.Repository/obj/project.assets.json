@@ -8565,11 +8565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\Uniteds.CaseStudy.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\Uniteds.CaseStudy.Repository.csproj",
       "projectName": "Uniteds.CaseStudy.Repository",
-      "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\Uniteds.CaseStudy.Repository.csproj",
+      "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\Uniteds.CaseStudy.Repository.csproj",
       "packagesPath": "C:\\Users\\ŞNSE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\obj\\",
+      "outputPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ŞNSE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8586,8 +8586,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj": {
-              "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj"
+            "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj": {
+              "projectPath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj"
             }
           }
         }

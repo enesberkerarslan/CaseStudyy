@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fym+EYf87lO7nRSJxtsnGa3Rx42MxoFA7niu1QSQM3t67kyGEYYeW+e18jS+AqIGqHO+10i3eeTDvk8QYwDoqw==",
+  "dgSpecHash": "tRpH8VrzftSYRPPsQthmfKxV5CXGmi37srT6K+SuOVK39TLgt0zzPkY0R7xQePjv1AXcQPw6IMsplzGF64xeZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ŞNSE\\Desktop\\Basladık\\CaseStudyy\\Uniteds.CaseStudy\\Uniteds.CaseStudy.Domain\\Uniteds.CaseStudy.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ŞNSE\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ŞNSE\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

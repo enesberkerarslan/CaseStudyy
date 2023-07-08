@@ -10,3 +10,15 @@ C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.D
 C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\refint\Uniteds.CaseStudy.Domain.dll
 C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.pdb
 C:\Users\ŞNSE\Desktop\Basladık\CaseStudy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\ref\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.deps.json
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\bin\Debug\net6.0\Uniteds.CaseStudy.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.csproj.AssemblyReference.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.AssemblyInfoInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.AssemblyInfo.cs
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\refint\Uniteds.CaseStudy.Domain.dll
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\Uniteds.CaseStudy.Domain.pdb
+C:\Users\ŞNSE\Desktop\Basladık\CaseStudyy\Uniteds.CaseStudy\Uniteds.CaseStudy.Domain\obj\Debug\net6.0\ref\Uniteds.CaseStudy.Domain.dll
